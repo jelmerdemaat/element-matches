@@ -17,7 +17,7 @@
     "polyfill"
   ],
   "author": "Jelmer de Maat",
-  "license": "MIT",
+  "license": "MIT (https://jelmer.mit-license.org/)",
   "bugs": {
     "url": "https://github.com/jelmerdemaat/element-matches/issues"
   },
