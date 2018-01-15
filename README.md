@@ -1,4 +1,7 @@
 # `Element.matches`
+
+[GitHub](https://github.com/jelmerdemaat/element-matches) | [NPM](https://www.npmjs.com/package/element-matches) | [@jelmerdemaat](https://twitter.com/jelmerdemaat)
+
 Super small `Element.matches` fix for older browsers. The only thing this package does is add prefixes for:
 
 * old IE versions (9+)
