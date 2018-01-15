@@ -1,4 +1,5 @@
-Super small `element.matches` fix for older browsers. The only thing this package does is add prefixes for:
+# `Element.matches`
+Super small `Element.matches` fix for older browsers. The only thing this package does is add prefixes for:
 
 * old IE versions (9+)
 * IE mobile(10+)
@@ -12,3 +13,19 @@ Super small `element.matches` fix for older browsers. The only thing this packag
     * Samsung Internet 4
 
 See Can I Use data: [https://www.caniuse.com/#feat=matchesselector](https://www.caniuse.com/#feat=matchesselector)
+
+## Usage
+Install it and import it in your code:
+
+```sh
+npm install --save element-matches
+```
+
+```js
+import 'element-matches';
+
+// Do some matching!
+if (document.body.matches('.cool-body')) {
+    console.info('Yeay, I am cool!');
+}
+```
