@@ -1,6 +1,6 @@
 {
   "name": "element-matches",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Super small `Element.matches` fix for older browsers (IE 9+, Edge 12+, Safari, Android browsers)",
   "main": "index.js",
   "scripts": {
